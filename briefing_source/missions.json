@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "subtitle": "The first ship through",
+    "dispatch": "The Sea Amber's master has asked whether he should turn back. Sixth Fleet has told him his escort is coming. That assurance now rests with you.",
+    "situation": "A patrol aircraft has been lost south of Crete and both commands are transmitting accusations faster than verified reports. Commercial masters have received contradictory warnings. M/V Sea Amber is carrying emergency stores for Malta through a southern safety lane; her crew cannot wait for the diplomatic picture to clear. Soviet small combatants are moving among ordinary shipping. Their intentions may be hostile, but a merchant hull seen near a warship is still a merchant hull.",
+    "intelligence": "Reports suggest missile craft with frigate support and fighter activity. Confidence is moderate on force types, low on individual positions. Some attackers may remain radar-silent while an escort emits. There is no confirmed bomber raid in this opening operation.",
+    "execution": "Keep a screen between the transport and developing contacts without leaving her exposed to a different bearing. Use reconnaissance to identify small returns before committing missiles. The assigned safety area is south of Malta; do not cut across the island while pursuing a contact.",
+    "success": "Sea Amber has reached the assigned safety area. Her master reports the crew remaining at stations. The stores are still afloat; the political crisis is unresolved.",
+    "failure": "The southern passage has not been secured. Command must suspend this movement and account for the ships and cargo committed to it."
+  },
+  {
+    "id": 2,
+    "subtitle": "A noise beneath the traffic",
+    "dispatch": "A contact report is not a position. Treat the last bearing as the beginning of the search, and keep your attention on the water while the enemy tries to draw it into the sky.",
+    "situation": "The Ionian approaches are crowded with ships changing routes after the first warnings. A Soviet Foxtrot has been reported near the convoy approach, but the latest acoustic trace broke among merchant machinery noise. A surfaced escort is easier to see and easier to hate; it is not the assigned quarry. The submarine's presence alone can close a route that NATO cannot afford to abandon.",
+    "intelligence": "A diesel-electric submarine is the designated threat. Surface escorts, fighters and Tu-16 activity complicate the hunt. The submarine's exact location and depth are unconfirmed. Merchant noise may mask it, while an overly aggressive search can expose your ships to the surface and air screen.",
+    "execution": "Build a stable contact before attacking. If you purchased and prepared maritime patrol aircraft, use them to extend the search while surface ships retain mutual air defence. Avoid spending the entire ammunition reserve on visible escorts when the submarine remains unlocated.",
+    "success": "The designated submarine has been destroyed. Operations staff can reopen the approach for planning, but this does not establish that the wider Ionian Sea is clear.",
+    "failure": "The contact remains an unresolved threat to the approach. The next movement must be delayed or routed around waters whose safety you could not establish."
+  },
+  {
+    "id": 3,
+    "subtitle": "Cargo before prestige",
+    "dispatch": "The Harbor Crown is neither fast nor expendable. You have been sent to deliver a ship, not to collect a list of enemy hulls sunk.",
+    "situation": "Sicilian radio stations are reading casualty rumours alongside ordinary weather reports. M/V Harbor Crown is carrying urgent logistics through the southeastern approaches to Sicily. The open-water lane offers room to manoeuvre, but the traffic around it offers cover to a missile craft looking for a short engagement. A successful delivery will keep the supply timetable credible; a detached escort chasing an attractive target could undo it in minutes.",
+    "intelligence": "Missile craft and a frigate screen are assessed in the area. Fighters and a small bomber element may operate beyond visual range. A radar-silent return is ambiguous: it may be a fishing boat, a cautious merchant or an attacker using another unit's picture.",
+    "execution": "Identify Harbor Crown and the exit area before accelerating the task group. Keep your defence arranged around her progress rather than the loudest emitter. Maintain positive identification of surface targets and consider the merchant traffic beyond the intended missile target.",
+    "success": "Harbor Crown has entered the safety area. The logistics movement can continue beyond this tactical leg. Command records a delivery, not a claim that the shipping lanes are now uncontested.",
+    "failure": "The logistics passage has failed. The consequences will be felt on the next schedule: delayed stores, diverted shipping and fewer choices for the force."
+  },
+  {
+    "id": 4,
+    "subtitle": "The barrier has a gap",
+    "dispatch": "Souda can prepare your aircraft. It cannot make the water transparent. Close the submarine threat before the next movement enters the approaches.",
+    "situation": "The campaign's weight is shifting east. South of Crete, a Soviet Kilo threatens the space between shore-based aviation and the fleet's working routes. Its silence is the problem: there may be no dramatic warning until an escort is already reacting to a torpedo. The surface screen and aircraft activity are conspicuous enough to split a commander's attention at exactly the wrong time.",
+    "intelligence": "A Kilo-class diesel-electric boat is the designated target. Frigate and destroyer support is assessed, with fighter patrols and Tu-16 bombers possible. Exact submarine position is withheld because it is not established by the briefing intelligence. Shore radars and SAM sites defend expeditionary aviation approaches farther south.",
+    "execution": "Conduct the hunt without allowing the group to become a succession of isolated sonar platforms. Use prepared aviation if available, preserve an air-defence watch and distinguish a firm underwater solution from a convenient bearing. Do not assume a quiet sea is an empty one.",
+    "success": "The designated Kilo has been destroyed. A local gap in the barrier has been closed. The force still has to contest the surface and air picture beyond it.",
+    "failure": "The barrier cannot be certified for the planned movement. Command must now weigh a delay against the risk of sending ships past an unresolved submarine threat."
+  },
+  {
+    "id": 5,
+    "subtitle": "Unpick the screen",
+    "dispatch": "The opposing detachment does not need to win a fleet action. It needs to keep your sensors and weapons occupied while the next raid develops.",
+    "situation": "Southeast of Crete, Soviet surface units are gathering under a wider air threat. The ships in front of you are a screen, not the whole enemy effort. Command wants its designated Kashin and Krivak pair removed before that screen can continue shaping the approach. Additional escorts may intervene, but an expanding battle must not obscure the two ships that define your task.",
+    "intelligence": "Destroyer and frigate opposition is assessed alongside Tu-16 and Tu-22M2 strike aircraft with fighter cover. Intercepts suggest activity from more than one bearing; they do not establish a timed or synchronized attack. Emitting screens may draw attention away from a silent missile platform.",
+    "execution": "Locate and identify the designated Kashin and Krivak targets. Arrange reconnaissance, air defence and surface attack as parts of one plan. A large surface salvo followed by an empty defensive magazine would leave the surviving group vulnerable to the aircraft still outside its picture.",
+    "success": "Both designated screen ships have been destroyed. Their removal weakens this detachment's local position; it does not account for every escort or aircraft in the area.",
+    "failure": "The designated pair has not been eliminated within the allotted window. The enemy retains enough of this screen to keep complicating Sixth Fleet's movements."
+  },
+  {
+    "id": 6,
+    "subtitle": "Seventy-five minutes",
+    "dispatch": "Keep the group alive for seventy-five minutes. Do not turn a survival order into a pursuit order because the first attacker offers you a target.",
+    "situation": "The picket south of Crete is now a place the opposing command expects NATO to occupy. That makes it useful and dangerous. The first aircraft you detect may be a fighter clearing a route, a missile carrier or an attempt to force an early expenditure of ammunition. Command has defined a finite holding window. Your duty is to bring surviving ships through that window with a coherent defence.",
+    "intelligence": "Mixed Tu-16 and Tu-22M2 strike aircraft, fighter cover and a surface group including a Kara are assessed. Different approach ranges may separate their arrival times. Do not rely on all aircraft appearing in a single wave, or on an enemy radar remaining active throughout an engagement.",
+    "execution": "Establish identification and defensive priorities early. Use your prepared fighters, if available, to disrupt launch platforms before shipboard missiles become the only defence. Keep the group mutually supporting and watch the remaining magazine after each engagement. Pursuit is discretionary; survival is the objective.",
+    "success": "The seventy-five-minute holding window has elapsed with a task-group vessel surviving. Command releases you from this task. No relief ship or reinforcement is implied by the timer.",
+    "failure": "The group could not survive the assigned window. The picket task has failed, and command must reconstruct what the remaining fleet can still defend."
+  },
+  {
+    "id": 7,
+    "subtitle": "A promise in the manifest",
+    "dispatch": "The Levant Promise's cargo has a destination and a list of people waiting for it. Keep those facts in view when the radar begins to fill.",
+    "situation": "The relief freighter M/V Levant Promise is making an eastbound tactical leg toward the Cyprus approaches. Her arrival in the marked safety area will complete your part of the movement; this scenario does not depict unloading at a Cypriot port. Syrian access facilities now support a fictional Soviet expeditionary detachment. That broadens the air picture while civilian shipping continues through waters that neither side can make exclusively military.",
+    "intelligence": "Surface combatants, a diesel-electric submarine, mixed bomber flights and fighter cover are assessed. Enemy shore defences protect the Syrian staging area, not an impenetrable blanket over the whole sea. Merchant and fishing contacts remain neutral unless independently identified as hostile.",
+    "execution": "Protect the freighter's lane while preserving both air and underwater awareness. Purchased aircraft may use RAF Akrotiri under the campaign's fictional access arrangement, provided they were prepared. Avoid chasing an emitter toward defended shore approaches while the relief ship remains exposed offshore.",
+    "success": "Levant Promise has reached the assigned safety area. Her relief cargo remains afloat and can continue beyond this escort leg. The wider humanitarian delivery is still a future task.",
+    "failure": "The relief movement has failed to reach safety. For the people awaiting its cargo, that is a practical delay rather than an entry on a naval scorecard."
+  },
+  {
+    "id": 8,
+    "subtitle": "The ship that keeps ships moving",
+    "dispatch": "An oiler makes a poor headline and an excellent target. Stonehaven is the reason another task group will have choices tomorrow.",
+    "situation": "USNS Stonehaven is approaching a replenishment rendezvous in the central Mediterranean. Every combatant wants fuel, but the immediate task is simpler than an actual replenishment evolution: keep the oiler alive and escort her into the marked safety area. Enemy surface units can threaten the support ship while bombers force your defensive attention upward. The ordinary freighters around the rendezvous make rapid visual assumptions particularly dangerous.",
+    "intelligence": "Missile craft and frigate/destroyer escorts are assessed, with mixed bomber and fighter activity. Enemy facilities on the Libyan coast support the wider air threat. Stonehaven is a protected support ship represented on the neutral side; this does not make her an expendable background contact.",
+    "execution": "Find the oiler first, then build a protective screen around her route. Keep sufficient air-defence capacity for contacts not yet visible. Break off a pursuit if it opens a direct approach to Stonehaven. No underway-transfer mechanic is required to complete this mission.",
+    "success": "Stonehaven has reached the safety area intact. The support movement is preserved. Fuel transfer and fleet resupply are narrative context, not additional scripted actions in this mission.",
+    "failure": "The support movement has failed. A fleet may still possess ships and weapons yet lose freedom of action when its logistics cannot reach it."
+  },
+  {
+    "id": 9,
+    "subtitle": "The command ship and its shield",
+    "dispatch": "The cruiser matters. So does the escort that keeps it useful. Your orders name both; sinking the largest hull alone will not finish this task.",
+    "situation": "A Slava-class missile cruiser is assessed to be directing the forward surface effort in the eastern Mediterranean. It carries enough striking power to demand attention on its own, but command has identified the cruiser and its designated Krivak escort as a pair that must be removed. Other escorts and a Kilo complicate the approach. With no rearm stop for this sortie, the attack must leave the force capable of defending itself.",
+    "intelligence": "Expect layered surface defence, submarine risk and mixed bomber flights with fighters. Exact ship positions are not established by the chart. A prominent emitter may be a screen rather than the cruiser. Reports of shore radar coverage do not justify treating every offshore contact as a member of that network.",
+    "execution": "Confirm the Slava and the designated Krivak before committing attack weapons. Retain a defence against the aircraft that may arrive during or after the surface exchange. Do not let a damaged primary target draw ships out of mutual support into the submarine threat.",
+    "success": "The designated cruiser and Krivak escort have both been destroyed. The forward command element is broken locally, though surviving enemies may still be capable of independent action.",
+    "failure": "The required pair has not been destroyed within the operational window. The command ship's detachment remains an unresolved obstacle to the campaign's next movement."
+  },
+  {
+    "id": 10,
+    "subtitle": "Three links in the ring",
+    "dispatch": "Break the designated screen, not your own formation. Command needs three confirmed losses on the other side and ships left on ours.",
+    "situation": "The Soviet screen between Crete and the eastern approaches has become a network of mutually supporting capabilities. Your assigned targets are an Udaloy, a Kara and a Krivak. None is the campaign's final command ship; all three matter to the screen's ability to detect, protect and hold water. A fourth escort and air opposition can still turn a technically successful attack into a costly preparation for the finale.",
+    "intelligence": "The designated three-ship screen is assessed with an additional destroyer and mixed bomber/fighter activity. Weapons and sensors overlap unevenly; a radar-silent ship is not necessarily disconnected from the group. No exact enemy positions are supplied on the briefing chart.",
+    "execution": "Identify the Udaloy, Kara and assigned Krivak, then plan how to defeat the whole target set within the window. Separate target priorities from automatic responses to the nearest contact. Preserve enough sensors, air defence and ammunition to bring the force out after the third required target is destroyed.",
+    "success": "All three designated screen ships have been destroyed. A local ring has been broken. The remaining force must still prepare for evacuation cover and the final engagement.",
+    "failure": "The designated screen has not been broken within the allotted time. The enemy retains a barrier that command can no longer assume will collapse before the next movement."
+  },
+  {
+    "id": 11,
+    "subtitle": "Names rather than tonnage",
+    "dispatch": "Meridian Star's manifest is now a list of people. Keep the transport moving toward the assigned safety area, even if a more satisfying battle offers itself elsewhere.",
+    "situation": "M/V Meridian Star is carrying evacuees through an eastbound safety leg in the Ionian Sea. 'Outbound' describes departure from danger, not a westbound route: follow the marked area and the transport's actual track. Cabin lights and ordinary merchant routines continue around a movement whose passengers understand very little of the tactical picture. Their dependence on the escort is complete.",
+    "intelligence": "A Kilo, surface attackers and mixed air opposition are assessed. Civilian traffic may share bearings with hostile units, while a fishing boat's intermittent return can resemble an unresolved small combatant. The transport's identity must remain clear throughout the engagement.",
+    "execution": "Stay with Meridian Star until she reaches the safety area. Resist being pulled away by surface contacts while maintaining an underwater watch. This sortie offers no pre-mission repair or rearm; allocate the force you actually retain. Saving ammunition for the finale is worthwhile only if the evacuation ship survives this leg.",
+    "success": "Meridian Star has entered the safety area. The evacuation escort leg is complete, with the transport still afloat. Command makes no automatic claim about the passengers' onward journey.",
+    "failure": "The evacuation movement has failed. The report to command will require more than tonnage and weapon expenditure; it must account for the people placed under your protection."
+  },
+  {
+    "id": 12,
+    "subtitle": "The last operational order",
+    "dispatch": "There is talk of a ceasefire. There is also a strike group still at sea. Until an order changes your task, the ships in front of you remain the problem you must solve.",
+    "situation": "South of Crete, the last major Soviet surface strike group in this campaign is still operational. Diplomatic messages offer a possible end to the crisis without giving either tactical command a reliable timetable. Your designated targets are the Slava command cruiser, its Kara escort and the assigned Krivak. Additional escorts, a Kilo and the strongest air opposition of the campaign can still impose losses after the first successful hit.",
+    "intelligence": "Expect mixed Tu-16 and Tu-22M2 strike aircraft, fighter cover, submarine risk and layered surface defence. Reporting remains incomplete. A pause in emissions is not a ceasefire, and an unidentified merchant remains a civilian contact until evidence establishes otherwise.",
+    "execution": "Use the ships, aircraft and magazines that survived the campaign. Confirm the three assigned targets and keep the force mutually supporting through the attack. Do not pursue optional shore targets at the expense of the required ships. This operation has no repair or rearm opportunity before launch.",
+    "success": "The Slava, Kara and designated Krivak have been destroyed. Operation Broken Trident ends with its final assigned surface group defeated. What follows belongs to diplomacy and recovery, not an automatic claim of a wider war won.",
+    "failure": "The final target set remains incomplete or the force has been lost. The campaign closes without the operational result command sought; the political outcome remains uncertain."
+  }
+]

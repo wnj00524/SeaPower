@@ -49,3 +49,13 @@ If a trigger fails: compare the mission's corresponding block against a current 
 - [ ] Verify three extra neutral freighter/fishing contacts per mission, differing radar state and traffic directions; preserve protected NeutralVessel1 loss and escort-arrival triggers.
 - [ ] Play the entire Supported campaign, including no-rearm legs, before tuning Standard/Severe. Confirm aircraft/ship losses and ammunition expenditure allow progress without requiring destruction of new optional land targets.
 - [ ] Confirm campaign menu air/land threat indicators reflect the new scenario forces.
+
+## Illustrated briefing acceptance
+
+- [ ] Open all twelve briefings: confirm the English text panel scrolls, wraps and displays its phase illustration.
+- [ ] Confirm each right pane displays its own mission title, theatre context, correct friendly airbase and local task chart.
+- [ ] Check the actual Noesis renderer at the intended game resolution and UI scale. Static XML parsing is not a rendering test.
+- [ ] Compare the escort safety circles against the tactical map in missions 1, 3, 7, 8 and 11. Check that other task rings are understood as illustrative.
+- [ ] Check mission 6 states survival for 75 minutes, mission 9 requires the Slava and Krivak, and mission 10 requires Udaloy/Kara/Krivak.
+- [ ] Check mission 11's text agrees with its eastbound route and that start/victory/defeat messages use the new mission-specific wording.
+- [ ] Confirm no exact hostile spawn positions or unearned friendly aircraft are revealed or promised by the briefing.

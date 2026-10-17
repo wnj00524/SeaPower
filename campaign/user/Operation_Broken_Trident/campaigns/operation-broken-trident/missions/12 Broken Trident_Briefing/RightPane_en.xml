@@ -1,0 +1,1 @@
+<Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Margin="12" Stretch="Uniform"><Canvas Width="1440" Height="1008"><Image Width="1440" Height="1008" Source="{Binding Assets[chart12]}"/></Canvas></Viewbox>

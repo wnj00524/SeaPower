@@ -20,6 +20,7 @@ Fictional Cold War campaign using period-era base-game units. US Sixth Fleet ver
 - `missions/`: twelve authored playable-shape scenarios with task-force anchor, opponents, objectives, and time / success / failure triggers.
 - `CAMPAIGN_DESIGN.md`: narrative, missions, logistics and realism constraints.
 - `TESTING.md`: staged in-game QA checklist.
+- `BRIEFINGS.md`: illustrated orders, chart conventions, art provenance and regeneration instructions.
 
 ## Important alpha limitations
 

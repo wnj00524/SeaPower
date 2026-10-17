@@ -9,4 +9,5 @@ jobs:
         with:
           python-version: '3.12'
       - run: python tools/validate_scenarios.py
+      - run: python tools/validate_briefings.py
       - run: python tools/build_package.py --check

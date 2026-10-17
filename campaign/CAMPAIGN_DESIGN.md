@@ -43,7 +43,7 @@ Mission condition: escort. Rearm: yes; repair: yes; completion points: 45.
 Mission condition: attack. Rearm: no; repair: no; completion points: 50.
 **10. Iron Ring** (27 Sep 1985, centre 33.85°N 25.65°E) — Break an integrated Soviet cruiser and destroyer screen between Crete and the Levant.
 Mission condition: attack. Rearm: yes; repair: yes; completion points: 55.
-**11. Outbound** (29 Sep 1985, centre 35.05°N 20.0°E) — Escort an evacuation transport west across the Ionian Sea, keeping the task force intact under pressure.
+**11. Outbound** (29 Sep 1985, centre 35.05°N 20.0°E) — Escort an evacuation transport east through its Ionian safety leg, keeping the task force intact under pressure.
 Mission condition: escort. Rearm: no; repair: no; completion points: 42.
 **12. Broken Trident** (1 Oct 1985, centre 34.2°N 23.8°E) — Confront the last major Soviet surface strike group south of Crete and end the Mediterranean naval offensive.
 Mission condition: attack. Rearm: no; repair: no; completion points: 0.
@@ -61,7 +61,7 @@ Mission condition: attack. Rearm: no; repair: no; completion points: 0.
 1. Replace simple escort triggers with multi-stage area and warning rules.
 2. Add optional airborne Air Tasking slots in addition to the shore-based Airbase Prep now provided in every mission.
 3. Model convoy protection as friendly allied units if neutral AI proves passive.
-4. Create mission briefings and campaign art.
+4. Illustrated narrative briefings and campaign art are included; verify their in-game rendering.
 5. Add political fail states for neutral deaths, independent of operation completion.
 6. Validate map extents, coastlines, bathymetry and exact flight/ship AI behaviour in the mission editor.
 
