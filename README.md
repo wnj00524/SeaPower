@@ -1,4 +1,18 @@
-# Operation Broken Trident — Sea Power
+# Sea Power Task Force Campaigns
+
+## Operation Southern Resolve — Falklands 1988
+
+Eight-mission alternate-history campaign: Argentina invades the Falklands with Cuban and Venezuelan backing. Command a US reinforcement group in the British-led response. Persistent fleet, evacuation and replenishment escorts, ASW, air defence and military supply interdiction. Uses stock units with documented equipment proxies. **Structured alpha; not game-tested.**
+
+Download `Operation_Southern_Resolve_Sea_Power_Alpha.zip` and follow [installation, mission list and limitations](falklands/README.md). Source: `falklands/`. See [in-game acceptance checks](falklands/TESTING.md).
+
+```sh
+python tools/validate_falklands.py
+python tools/build_falklands_package.py --check
+```
+
+## Operation Broken Trident — Mediterranean 1985
+
 
 Twelve-mission fictional Cold War Mediterranean Task Force campaign.
 

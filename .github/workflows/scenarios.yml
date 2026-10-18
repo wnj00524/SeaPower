@@ -11,3 +11,5 @@ jobs:
       - run: python tools/validate_scenarios.py
       - run: python tools/validate_briefings.py
       - run: python tools/build_package.py --check
+      - run: python tools/validate_falklands.py
+      - run: python tools/build_falklands_package.py --check
